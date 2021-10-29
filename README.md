@@ -8,7 +8,7 @@ AddOn Studio (AOS) is a development environment designed to bring a Visual Studi
 This is an archive of the CodePlex site and the 2.0 version. All code and files are licensed under the "Microsoft Public License (Ms-PL)".
 
 ## What's here
-The code represents a live archive of the last code on http://addonstudio.codeplex.com. CodePlex was taken off-line in total for all projects mid year in 2021. CodePlex was the original home of AddOn Studio.
+The code represents a live archive of the last code on http://addonstudio.codeplex.com. CodePlex was taken off-line in total for all projects mid year in 2021. CodePlex was the original home of AddOn Studio. [CodePlex](https://static.wikia.nocookie.net/logopedia/images/6/6e/Codeplex.png) [CodePlex](https://static.wikia.nocookie.net/logopedia/images/b/b5/CodePlex.png)
 
 ## License
 This code, the pages, other files or artifacts here and use thereof, is licensed under the same terms on CodePlex as of 2017, the "Microsoft Public License (Ms-PL)". This was the current license as of 2017 which was last updated in 2007, and of the last code commit in 2009. See also https://opensource.org/licenses/MS-PL.
