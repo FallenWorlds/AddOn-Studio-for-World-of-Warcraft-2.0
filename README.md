@@ -13,7 +13,7 @@ This code, the pages, other files or artifacts here and use thereof, is licensed
 For any verbiage differences between the LICENSE file here and any external copy, the original copy here which is verbatim from CodePlex as of 2017, is the one that counts.
 
 ## Why it's here
-The purpose of this repository is to serve as a partial archive for what is no longer available from CodePlex.
+The purpose of this repository is to serve as a partial archive for what is no longer available from CodePlex. Other parts of the archive can be found in spirit on the AddOn Studio main wiki, see below.
 
 ## More info
 More info about AddOn Studio and its history, and information about contemporary versions of AddOn Studio for World of Warcraft can be found here: https://addonstudio.fandom.com.
