@@ -17,6 +17,8 @@ CodePlex was taken off-line in total for all projects mid year in 2021. CodePlex
 
 ![CodePlex](https://static.wikia.nocookie.net/logopedia/images/6/6e/Codeplex.png/revision/latest/scale-to-height-down/60)
 
+The new home is currently here: https://addonstudio.fandom.com
+
 ## License
 This code, the pages, other files or artifacts here and use thereof, is licensed under the same terms on CodePlex as of 2017, the "Microsoft Public License (Ms-PL)". This was the current license as of 2017 which was last updated in 2007, and of the last code commit in 2009. See also https://opensource.org/licenses/MS-PL.
 
