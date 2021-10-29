@@ -5,7 +5,7 @@
 
 AddOn Studio (AOS) is a development environment designed to bring a Visual Studio-like experience to building World of Warcraft AddOns.
 
-This is a CodePlex archive of the 2.0 version. All code and files are licensed under the "Microsoft Public License (Ms-PL)".
+This is an archive of the CodePlex site and the 2.0 version. All code and files are licensed under the "Microsoft Public License (Ms-PL)".
 
 ## What's here
 The code represents a live archive of the last code on http://addonstudio.codeplex.com. CodePlex was taken off-line in total for all projects mid year in 2021. CodePlex was the original home of AddOn Studio.
